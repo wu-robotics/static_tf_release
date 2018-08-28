@@ -1,0 +1,12 @@
+Source: ros-lunar-static-tf
+Section: misc
+Priority: extra
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-geometry-msgs, ros-lunar-rospy, ros-lunar-tf, ros-lunar-tf2-ros
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-static-tf
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libpython2.7-stdlib, ros-lunar-geometry-msgs, ros-lunar-rospy, ros-lunar-tf, ros-lunar-tf2-ros
+Description: The static_tf package
