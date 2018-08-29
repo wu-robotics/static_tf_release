@@ -1,3 +1,26 @@
+## static_tf (melodic) - 0.0.2-0
+
+The packages in the `static_tf` repository were released into the `melodic` distro by running `/usr/bin/bloom-release static_tf -r melodic -y` on `Wed, 29 Aug 2018 14:21:45 -0000`
+
+The `static_tf` package was released.
+
+Version of package(s) in repository `static_tf`:
+
+- upstream repository: https://github.com/DLu/static_tf.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## static_tf (lunar) - 0.0.2-0
 
 The packages in the `static_tf` repository were released into the `lunar` distro by running `/usr/bin/bloom-release static_tf -r lunar -y` on `Tue, 28 Aug 2018 19:51:27 -0000`
